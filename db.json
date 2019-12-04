@@ -1,0 +1,153 @@
+{
+    "chat": [{
+        "id": "ddea4329-245e-463c-88a7-8ba57402e4fa",
+        "status": "active",
+        "startTime": "2019-10-29 08:00:00",
+        "assigned": "Therion",
+        "priority": "red",
+        "messages": [
+            {
+                "message": "hola",
+                "timestamp": "2019-10-29 08:00:00",
+                "user": "fernando"
+            },
+            {
+                "message": "que me dice",
+                "timestamp": "2019-10-29 08:00:00",
+                "user": "Bob"
+            },
+            {
+                "message": "todo bien",
+                "timestamp": "2019-10-29 08:00:00",
+                "user": "Fernando"
+            }
+        ],
+        "comments": [
+            {
+                "comment": "que me dice",
+                "timestamp": "2019-10-29 08:00:00",
+                "from": "Bob"
+            },
+            {
+                "comment": "todo bien",
+                "timestamp": "2019-10-29 08:00:00",
+                "from": "Fernando"
+            }
+        ],
+        "attachments":[
+            {
+                "id": "1",
+                "name": "Image One",
+                "description": "image create as evidence",
+                "path": "/public/image1.png",
+                "timestamp": "2019-10-29 08:00:00"
+            },
+            {
+                "id": "2",
+                "name": "Image Two",
+                "description": "image create as evidence",
+                "path": "/public/image2.png",
+                "timestamp": "2019-10-29 08:00:00"
+            }            
+        ],
+
+        "pastAgents": [
+            "Fernando",
+            "Bob",
+            "Wilson"
+        ]
+    }],
+    "users":[
+        {
+            "id" : "1234",
+            "Name": "Fernando",
+            "company": "CRP DEV",
+            
+            "email": "fernando@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "admin"
+        },
+        {
+            "id" : "1235",
+            "Name": "Bob",
+            "company": "CRP Cliente One",
+            "email": "robert@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "CRP"
+        },
+        {
+            "id" : "1236",
+            "Name": "Ann",
+            "company": "CRP DEV",
+            "email": "Ann@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "CRP"
+        },
+        {
+            "id" : "1237",
+            "Name": "Peter",
+            "company": "CRP Cliente Two",
+            "email": "peter@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "CRP"
+        },
+        {
+            "id" : "1238",
+            "Name": "Scott",
+            "company": "CRP Team",
+            "email": "scott@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "Agent"
+        },
+        {
+            "id" : "1239",
+            "Name": "Lian",
+            "company": "CRP Team",
+            "email": "Lian@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "Agent"
+        },
+        {
+            "id" : "1240",
+            "Name": "Betty",
+            "company": "CRP Team",
+            "email": "Betty@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "Agent"
+        },
+        {            
+            "id" : "1241",
+            "Name": "James",
+            "company": "CRP Cliente Three",
+            "email": "James@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "CRP"
+        },
+        {            
+            "id" : "1242",
+            "Name": "Clare",
+            "company": "CRP Cliente Four",
+            "email": "Clare@crp.com",
+            "description": "descripcion about the client",
+            "phone": "89898989",  
+            "movile":"89898989",  
+            "role" : "CRP"
+        }
+    ]
+}
