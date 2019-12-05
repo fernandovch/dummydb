@@ -1,153 +1,952 @@
 {
-    "chat": [{
-        "id": "ddea4329-245e-463c-88a7-8ba57402e4fa",
-        "status": "active",
-        "startTime": "2019-10-29 08:00:00",
-        "assigned": "Therion",
-        "priority": "red",
-        "messages": [
-            {
-                "message": "hola",
-                "timestamp": "2019-10-29 08:00:00",
-                "user": "fernando"
-            },
-            {
-                "message": "que me dice",
-                "timestamp": "2019-10-29 08:00:00",
-                "user": "Bob"
-            },
-            {
-                "message": "todo bien",
-                "timestamp": "2019-10-29 08:00:00",
-                "user": "Fernando"
-            }
-        ],
-        "comments": [
-            {
-                "comment": "que me dice",
-                "timestamp": "2019-10-29 08:00:00",
-                "from": "Bob"
-            },
-            {
-                "comment": "todo bien",
-                "timestamp": "2019-10-29 08:00:00",
-                "from": "Fernando"
-            }
-        ],
-        "attachments":[
-            {
-                "id": "1",
-                "name": "Image One",
-                "description": "image create as evidence",
-                "path": "/public/image1.png",
-                "timestamp": "2019-10-29 08:00:00"
-            },
-            {
-                "id": "2",
-                "name": "Image Two",
-                "description": "image create as evidence",
-                "path": "/public/image2.png",
-                "timestamp": "2019-10-29 08:00:00"
-            }            
-        ],
-
-        "pastAgents": [
-            "Fernando",
-            "Bob",
-            "Wilson"
-        ]
-    }],
-    "users":[
+  "chats": [
+    {
+      "id": "70ee5f4e-a648-445e-8891-f6e571fe8e49",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.657Z",
+      "assigned": 1239,
+      "messages": [],
+      "comments": [
         {
-            "id" : "1234",
-            "Name": "Fernando",
-            "company": "CRP DEV",
-            
-            "email": "fernando@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "admin"
+          "message": "exercitationem vero atque",
+          "timestamp": "2019-12-05T02:59:16.660Z",
+          "user": "Lian"
         },
         {
-            "id" : "1235",
-            "Name": "Bob",
-            "company": "CRP Cliente One",
-            "email": "robert@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "CRP"
+          "message": "est voluptatem debitis",
+          "timestamp": "2019-12-05T02:59:16.661Z",
+          "user": "Adriel"
         },
         {
-            "id" : "1236",
-            "Name": "Ann",
-            "company": "CRP DEV",
-            "email": "Ann@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "CRP"
+          "message": "omnis doloribus omnis",
+          "timestamp": "2019-12-05T02:59:16.692Z",
+          "user": "Lian"
         },
         {
-            "id" : "1237",
-            "Name": "Peter",
-            "company": "CRP Cliente Two",
-            "email": "peter@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "CRP"
+          "message": "facere sapiente necessitatibus",
+          "timestamp": "2019-12-05T02:59:16.693Z",
+          "user": "Johnny"
         },
         {
-            "id" : "1238",
-            "Name": "Scott",
-            "company": "CRP Team",
-            "email": "scott@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "Agent"
-        },
-        {
-            "id" : "1239",
-            "Name": "Lian",
-            "company": "CRP Team",
-            "email": "Lian@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "Agent"
-        },
-        {
-            "id" : "1240",
-            "Name": "Betty",
-            "company": "CRP Team",
-            "email": "Betty@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "Agent"
-        },
-        {            
-            "id" : "1241",
-            "Name": "James",
-            "company": "CRP Cliente Three",
-            "email": "James@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "CRP"
-        },
-        {            
-            "id" : "1242",
-            "Name": "Clare",
-            "company": "CRP Cliente Four",
-            "email": "Clare@crp.com",
-            "description": "descripcion about the client",
-            "phone": "89898989",  
-            "movile":"89898989",  
-            "role" : "CRP"
+          "message": "cupiditate a rerum",
+          "timestamp": "2019-12-05T02:59:16.693Z",
+          "user": "Lian"
         }
-    ]
+      ],
+      "pastAgents": [
+        "Scott",
+        "Betty",
+        "Scott"
+      ]
+    },
+    {
+      "id": "38dbf207-50ae-402e-83a5-e56d28766531",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.694Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "aliquid consequatur quae",
+          "timestamp": "2019-12-05T02:59:16.694Z",
+          "user": "Lian"
+        },
+        {
+          "message": "porro aut exercitationem",
+          "timestamp": "2019-12-05T02:59:16.695Z",
+          "user": "Garret"
+        }
+      ],
+      "comments": [
+        {
+          "message": "aspernatur eum reprehenderit",
+          "timestamp": "2019-12-05T02:59:16.695Z",
+          "user": "Lian"
+        },
+        {
+          "message": "saepe aut nisi",
+          "timestamp": "2019-12-05T02:59:16.695Z",
+          "user": "Elta"
+        },
+        {
+          "message": "velit eaque dolor",
+          "timestamp": "2019-12-05T02:59:16.695Z",
+          "user": "Lian"
+        },
+        {
+          "message": "quo quisquam voluptas",
+          "timestamp": "2019-12-05T02:59:16.696Z",
+          "user": "Maeve"
+        },
+        {
+          "message": "sapiente esse culpa",
+          "timestamp": "2019-12-05T02:59:16.696Z",
+          "user": "Lian"
+        }
+      ],
+      "pastAgents": [
+        "Scott",
+        "Lian",
+        "Lian"
+      ]
+    },
+    {
+      "id": "3073bf95-9252-498b-b210-a57b6eb0065a",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.696Z",
+      "assigned": 1239,
+      "messages": [],
+      "comments": [
+        {
+          "message": "qui consequuntur omnis",
+          "timestamp": "2019-12-05T02:59:16.696Z",
+          "user": "Lian"
+        },
+        {
+          "message": "fugiat qui quo",
+          "timestamp": "2019-12-05T02:59:16.697Z",
+          "user": "Neoma"
+        }
+      ],
+      "pastAgents": [
+        "Scott",
+        "Betty",
+        "Lian"
+      ]
+    },
+    {
+      "id": "3fdab64a-e4c4-4ece-978e-db2bff67b416",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.697Z",
+      "assigned": 1238,
+      "messages": [
+        {
+          "message": "fuga ut repellendus",
+          "timestamp": "2019-12-05T02:59:16.697Z",
+          "user": "Scott"
+        },
+        {
+          "message": "eius sed nam",
+          "timestamp": "2019-12-05T02:59:16.698Z",
+          "user": "Linda"
+        },
+        {
+          "message": "quis accusantium aliquam",
+          "timestamp": "2019-12-05T02:59:16.699Z",
+          "user": "Scott"
+        },
+        {
+          "message": "aut cupiditate est",
+          "timestamp": "2019-12-05T02:59:16.699Z",
+          "user": "Katelynn"
+        }
+      ],
+      "comments": [
+        {
+          "message": "dolore voluptatem et",
+          "timestamp": "2019-12-05T02:59:16.699Z",
+          "user": "Scott"
+        }
+      ],
+      "pastAgents": [
+        "Lian",
+        "Lian",
+        "Scott"
+      ]
+    },
+    {
+      "id": "eebab001-defc-434b-a92b-7d5eda869fc2",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.699Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "delectus distinctio ut",
+          "timestamp": "2019-12-05T02:59:16.699Z",
+          "user": "Lian"
+        },
+        {
+          "message": "aut accusantium eum",
+          "timestamp": "2019-12-05T02:59:16.700Z",
+          "user": "Meggie"
+        },
+        {
+          "message": "tempora ullam voluptates",
+          "timestamp": "2019-12-05T02:59:16.700Z",
+          "user": "Lian"
+        }
+      ],
+      "comments": [
+        {
+          "message": "eum est consequatur",
+          "timestamp": "2019-12-05T02:59:16.700Z",
+          "user": "Lian"
+        },
+        {
+          "message": "ad aut quasi",
+          "timestamp": "2019-12-05T02:59:16.700Z",
+          "user": "Maye"
+        },
+        {
+          "message": "iure ex impedit",
+          "timestamp": "2019-12-05T02:59:16.700Z",
+          "user": "Lian"
+        },
+        {
+          "message": "quia sed qui",
+          "timestamp": "2019-12-05T02:59:16.701Z",
+          "user": "Jordi"
+        }
+      ],
+      "pastAgents": [
+        "Lian",
+        "Scott",
+        "Betty"
+      ]
+    },
+    {
+      "id": "fd47de63-4096-4f1e-b8b1-a48a9ea2c29e",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.701Z",
+      "assigned": 1240,
+      "messages": [
+        {
+          "message": "natus et expedita",
+          "timestamp": "2019-12-05T02:59:16.701Z",
+          "user": "Betty"
+        },
+        {
+          "message": "autem perspiciatis distinctio",
+          "timestamp": "2019-12-05T02:59:16.701Z",
+          "user": "Hershel"
+        },
+        {
+          "message": "sit quaerat beatae",
+          "timestamp": "2019-12-05T02:59:16.702Z",
+          "user": "Betty"
+        },
+        {
+          "message": "inventore itaque minus",
+          "timestamp": "2019-12-05T02:59:16.702Z",
+          "user": "Sylvester"
+        }
+      ],
+      "comments": [],
+      "pastAgents": [
+        "Betty",
+        "Betty",
+        "Scott"
+      ]
+    },
+    {
+      "id": "9131925c-50a4-4002-b6bf-98ec2e618b66",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.702Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "ut non sit",
+          "timestamp": "2019-12-05T02:59:16.719Z",
+          "user": "Lian"
+        },
+        {
+          "message": "atque rerum magni",
+          "timestamp": "2019-12-05T02:59:16.720Z",
+          "user": "Keyshawn"
+        }
+      ],
+      "comments": [],
+      "pastAgents": [
+        "Scott",
+        "Scott",
+        "Lian"
+      ]
+    },
+    {
+      "id": "04476c35-d61d-485e-800c-a9f771df025b",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.720Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "fugit porro aut",
+          "timestamp": "2019-12-05T02:59:16.721Z",
+          "user": "Lian"
+        },
+        {
+          "message": "ex itaque optio",
+          "timestamp": "2019-12-05T02:59:16.734Z",
+          "user": "Leonel"
+        },
+        {
+          "message": "ratione consectetur voluptatem",
+          "timestamp": "2019-12-05T02:59:16.734Z",
+          "user": "Lian"
+        },
+        {
+          "message": "quam non ratione",
+          "timestamp": "2019-12-05T02:59:16.734Z",
+          "user": "Penelope"
+        }
+      ],
+      "comments": [
+        {
+          "message": "earum non odio",
+          "timestamp": "2019-12-05T02:59:16.735Z",
+          "user": "Lian"
+        },
+        {
+          "message": "ad illum itaque",
+          "timestamp": "2019-12-05T02:59:16.735Z",
+          "user": "Vernie"
+        },
+        {
+          "message": "nulla culpa atque",
+          "timestamp": "2019-12-05T02:59:16.735Z",
+          "user": "Lian"
+        }
+      ],
+      "pastAgents": [
+        "Betty",
+        "Lian",
+        "Lian"
+      ]
+    },
+    {
+      "id": "d02258c0-fad5-4fcd-87d1-b3d4294dd5cc",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.735Z",
+      "assigned": 1238,
+      "messages": [
+        {
+          "message": "provident et voluptas",
+          "timestamp": "2019-12-05T02:59:16.736Z",
+          "user": "Scott"
+        },
+        {
+          "message": "voluptatem voluptatem tenetur",
+          "timestamp": "2019-12-05T02:59:16.736Z",
+          "user": "Justine"
+        }
+      ],
+      "comments": [
+        {
+          "message": "sapiente atque eligendi",
+          "timestamp": "2019-12-05T02:59:16.736Z",
+          "user": "Scott"
+        },
+        {
+          "message": "vero optio et",
+          "timestamp": "2019-12-05T02:59:16.736Z",
+          "user": "Deron"
+        }
+      ],
+      "pastAgents": [
+        "Betty",
+        "Scott",
+        "Scott"
+      ]
+    },
+    {
+      "id": "59111dee-574c-4920-8036-1bbd81c8c72f",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.736Z",
+      "assigned": 1238,
+      "messages": [
+        {
+          "message": "ipsam sed vel",
+          "timestamp": "2019-12-05T02:59:16.737Z",
+          "user": "Scott"
+        },
+        {
+          "message": "voluptatibus voluptates ut",
+          "timestamp": "2019-12-05T02:59:16.737Z",
+          "user": "Terrell"
+        },
+        {
+          "message": "illum fuga cumque",
+          "timestamp": "2019-12-05T02:59:16.737Z",
+          "user": "Scott"
+        },
+        {
+          "message": "est iste expedita",
+          "timestamp": "2019-12-05T02:59:16.737Z",
+          "user": "Bernardo"
+        },
+        {
+          "message": "nam molestiae enim",
+          "timestamp": "2019-12-05T02:59:16.738Z",
+          "user": "Scott"
+        }
+      ],
+      "comments": [
+        {
+          "message": "modi fugit debitis",
+          "timestamp": "2019-12-05T02:59:16.738Z",
+          "user": "Scott"
+        },
+        {
+          "message": "illum quis aliquam",
+          "timestamp": "2019-12-05T02:59:16.739Z",
+          "user": "Lorenza"
+        },
+        {
+          "message": "aperiam quia qui",
+          "timestamp": "2019-12-05T02:59:16.749Z",
+          "user": "Scott"
+        },
+        {
+          "message": "amet reiciendis perferendis",
+          "timestamp": "2019-12-05T02:59:16.749Z",
+          "user": "Jayson"
+        }
+      ],
+      "pastAgents": [
+        "Lian",
+        "Lian",
+        "Betty"
+      ]
+    },
+    {
+      "id": "08dcef0b-5812-4224-85c3-3c60e3a73d94",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.749Z",
+      "assigned": 1238,
+      "messages": [
+        {
+          "message": "ab optio nulla",
+          "timestamp": "2019-12-05T02:59:16.750Z",
+          "user": "Scott"
+        },
+        {
+          "message": "qui excepturi assumenda",
+          "timestamp": "2019-12-05T02:59:16.750Z",
+          "user": "Jameson"
+        }
+      ],
+      "comments": [
+        {
+          "message": "veritatis at aut",
+          "timestamp": "2019-12-05T02:59:16.751Z",
+          "user": "Scott"
+        },
+        {
+          "message": "illo autem laboriosam",
+          "timestamp": "2019-12-05T02:59:16.751Z",
+          "user": "Kacey"
+        },
+        {
+          "message": "eius doloremque aut",
+          "timestamp": "2019-12-05T02:59:16.751Z",
+          "user": "Scott"
+        },
+        {
+          "message": "voluptas nulla recusandae",
+          "timestamp": "2019-12-05T02:59:16.752Z",
+          "user": "Eldora"
+        }
+      ],
+      "pastAgents": [
+        "Lian",
+        "Scott",
+        "Betty"
+      ]
+    },
+    {
+      "id": "920894d3-63f5-4463-8714-180ed89f2f05",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.752Z",
+      "assigned": 1238,
+      "messages": [
+        {
+          "message": "ut soluta quo",
+          "timestamp": "2019-12-05T02:59:16.752Z",
+          "user": "Scott"
+        }
+      ],
+      "comments": [],
+      "pastAgents": [
+        "Lian",
+        "Betty",
+        "Betty"
+      ]
+    },
+    {
+      "id": "efdf48ce-7f5d-40aa-85e0-0058174ec2c0",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.752Z",
+      "assigned": 1238,
+      "messages": [
+        {
+          "message": "rerum aut vel",
+          "timestamp": "2019-12-05T02:59:16.752Z",
+          "user": "Scott"
+        }
+      ],
+      "comments": [
+        {
+          "message": "velit modi sed",
+          "timestamp": "2019-12-05T02:59:16.753Z",
+          "user": "Scott"
+        },
+        {
+          "message": "suscipit qui iusto",
+          "timestamp": "2019-12-05T02:59:16.753Z",
+          "user": "Letitia"
+        },
+        {
+          "message": "debitis saepe aut",
+          "timestamp": "2019-12-05T02:59:16.753Z",
+          "user": "Scott"
+        }
+      ],
+      "pastAgents": [
+        "Betty",
+        "Betty",
+        "Betty"
+      ]
+    },
+    {
+      "id": "37877389-8783-4736-bebb-9676bc8a3a11",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.753Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "veniam est sit",
+          "timestamp": "2019-12-05T02:59:16.753Z",
+          "user": "Lian"
+        },
+        {
+          "message": "dolores recusandae fugiat",
+          "timestamp": "2019-12-05T02:59:16.754Z",
+          "user": "Anastasia"
+        },
+        {
+          "message": "dolor excepturi at",
+          "timestamp": "2019-12-05T02:59:16.754Z",
+          "user": "Lian"
+        },
+        {
+          "message": "qui dolorem delectus",
+          "timestamp": "2019-12-05T02:59:16.754Z",
+          "user": "Ally"
+        },
+        {
+          "message": "illum reprehenderit non",
+          "timestamp": "2019-12-05T02:59:16.755Z",
+          "user": "Lian"
+        }
+      ],
+      "comments": [
+        {
+          "message": "qui eum autem",
+          "timestamp": "2019-12-05T02:59:16.755Z",
+          "user": "Lian"
+        },
+        {
+          "message": "sint et quia",
+          "timestamp": "2019-12-05T02:59:16.755Z",
+          "user": "Roxane"
+        },
+        {
+          "message": "explicabo qui nam",
+          "timestamp": "2019-12-05T02:59:16.755Z",
+          "user": "Lian"
+        }
+      ],
+      "pastAgents": [
+        "Lian",
+        "Betty",
+        "Lian"
+      ]
+    },
+    {
+      "id": "a10c93fb-3e62-4a75-9efc-e9abb4b57146",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.756Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "aut possimus possimus",
+          "timestamp": "2019-12-05T02:59:16.766Z",
+          "user": "Lian"
+        },
+        {
+          "message": "ratione dicta consequatur",
+          "timestamp": "2019-12-05T02:59:16.766Z",
+          "user": "Amaya"
+        },
+        {
+          "message": "hic sapiente pariatur",
+          "timestamp": "2019-12-05T02:59:16.766Z",
+          "user": "Lian"
+        },
+        {
+          "message": "voluptas cumque et",
+          "timestamp": "2019-12-05T02:59:16.767Z",
+          "user": "Alexane"
+        },
+        {
+          "message": "quos reiciendis ratione",
+          "timestamp": "2019-12-05T02:59:16.767Z",
+          "user": "Lian"
+        }
+      ],
+      "comments": [
+        {
+          "message": "repellendus aut impedit",
+          "timestamp": "2019-12-05T02:59:16.768Z",
+          "user": "Lian"
+        },
+        {
+          "message": "consequuntur quisquam unde",
+          "timestamp": "2019-12-05T02:59:16.768Z",
+          "user": "Lisette"
+        },
+        {
+          "message": "et eos ipsam",
+          "timestamp": "2019-12-05T02:59:16.768Z",
+          "user": "Lian"
+        },
+        {
+          "message": "quis nesciunt eum",
+          "timestamp": "2019-12-05T02:59:16.768Z",
+          "user": "Diamond"
+        }
+      ],
+      "pastAgents": [
+        "Lian",
+        "Scott",
+        "Lian"
+      ]
+    },
+    {
+      "id": "f79296b8-39f8-48ca-8fe1-e6d27db2c460",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.768Z",
+      "assigned": 1238,
+      "messages": [
+        {
+          "message": "iusto maiores delectus",
+          "timestamp": "2019-12-05T02:59:16.769Z",
+          "user": "Scott"
+        },
+        {
+          "message": "velit consectetur doloribus",
+          "timestamp": "2019-12-05T02:59:16.769Z",
+          "user": "Macy"
+        },
+        {
+          "message": "minima esse nulla",
+          "timestamp": "2019-12-05T02:59:16.769Z",
+          "user": "Scott"
+        },
+        {
+          "message": "quam similique sapiente",
+          "timestamp": "2019-12-05T02:59:16.769Z",
+          "user": "Ines"
+        }
+      ],
+      "comments": [
+        {
+          "message": "omnis eos modi",
+          "timestamp": "2019-12-05T02:59:16.769Z",
+          "user": "Scott"
+        },
+        {
+          "message": "molestias recusandae laboriosam",
+          "timestamp": "2019-12-05T02:59:16.770Z",
+          "user": "Fabiola"
+        },
+        {
+          "message": "voluptas animi molestias",
+          "timestamp": "2019-12-05T02:59:16.770Z",
+          "user": "Scott"
+        },
+        {
+          "message": "aspernatur tempore ab",
+          "timestamp": "2019-12-05T02:59:16.770Z",
+          "user": "Kyla"
+        },
+        {
+          "message": "dicta sit fugit",
+          "timestamp": "2019-12-05T02:59:16.770Z",
+          "user": "Scott"
+        }
+      ],
+      "pastAgents": [
+        "Betty",
+        "Lian",
+        "Scott"
+      ]
+    },
+    {
+      "id": "619ccfe2-4f98-497a-a858-67dfcccebcb4",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.771Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "expedita similique fuga",
+          "timestamp": "2019-12-05T02:59:16.781Z",
+          "user": "Lian"
+        },
+        {
+          "message": "non praesentium mollitia",
+          "timestamp": "2019-12-05T02:59:16.781Z",
+          "user": "Tito"
+        },
+        {
+          "message": "tempore laboriosam accusantium",
+          "timestamp": "2019-12-05T02:59:16.782Z",
+          "user": "Lian"
+        }
+      ],
+      "comments": [
+        {
+          "message": "assumenda in corrupti",
+          "timestamp": "2019-12-05T02:59:16.782Z",
+          "user": "Lian"
+        }
+      ],
+      "pastAgents": [
+        "Scott",
+        "Scott",
+        "Lian"
+      ]
+    },
+    {
+      "id": "f4aff3f0-4ea7-4397-9700-1a8b2b59e57a",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.782Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "debitis quod eos",
+          "timestamp": "2019-12-05T02:59:16.783Z",
+          "user": "Lian"
+        },
+        {
+          "message": "in earum qui",
+          "timestamp": "2019-12-05T02:59:16.783Z",
+          "user": "Cheyenne"
+        }
+      ],
+      "comments": [
+        {
+          "message": "dolor ut aut",
+          "timestamp": "2019-12-05T02:59:16.783Z",
+          "user": "Lian"
+        },
+        {
+          "message": "quia adipisci dicta",
+          "timestamp": "2019-12-05T02:59:16.784Z",
+          "user": "Beaulah"
+        },
+        {
+          "message": "et nihil dolorem",
+          "timestamp": "2019-12-05T02:59:16.784Z",
+          "user": "Lian"
+        },
+        {
+          "message": "eligendi totam mollitia",
+          "timestamp": "2019-12-05T02:59:16.784Z",
+          "user": "Quincy"
+        }
+      ],
+      "pastAgents": [
+        "Betty",
+        "Betty",
+        "Betty"
+      ]
+    },
+    {
+      "id": "c6ebf489-a171-4e9e-bf79-b3e9b4cf142a",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.784Z",
+      "assigned": 1240,
+      "messages": [
+        {
+          "message": "maxime nostrum magnam",
+          "timestamp": "2019-12-05T02:59:16.784Z",
+          "user": "Betty"
+        },
+        {
+          "message": "facere officia facilis",
+          "timestamp": "2019-12-05T02:59:16.785Z",
+          "user": "Bernadine"
+        },
+        {
+          "message": "harum minima vero",
+          "timestamp": "2019-12-05T02:59:16.785Z",
+          "user": "Betty"
+        }
+      ],
+      "comments": [
+        {
+          "message": "voluptas quia magnam",
+          "timestamp": "2019-12-05T02:59:16.785Z",
+          "user": "Betty"
+        },
+        {
+          "message": "sequi non ratione",
+          "timestamp": "2019-12-05T02:59:16.785Z",
+          "user": "Eulah"
+        },
+        {
+          "message": "officia aut dolorem",
+          "timestamp": "2019-12-05T02:59:16.785Z",
+          "user": "Betty"
+        },
+        {
+          "message": "asperiores fugiat vel",
+          "timestamp": "2019-12-05T02:59:16.786Z",
+          "user": "Halie"
+        }
+      ],
+      "pastAgents": [
+        "Betty",
+        "Scott",
+        "Lian"
+      ]
+    },
+    {
+      "id": "6f7ef4b8-518a-4e63-8311-bb89671d00ad",
+      "status": "active",
+      "startTime": "2019-12-05T02:59:16.786Z",
+      "assigned": 1239,
+      "messages": [
+        {
+          "message": "quis sint repellat",
+          "timestamp": "2019-12-05T02:59:16.786Z",
+          "user": "Lian"
+        },
+        {
+          "message": "rerum repellat sint",
+          "timestamp": "2019-12-05T02:59:16.786Z",
+          "user": "Ransom"
+        },
+        {
+          "message": "esse sunt et",
+          "timestamp": "2019-12-05T02:59:16.786Z",
+          "user": "Lian"
+        }
+      ],
+      "comments": [
+        {
+          "message": "impedit et et",
+          "timestamp": "2019-12-05T02:59:16.787Z",
+          "user": "Lian"
+        },
+        {
+          "message": "occaecati est quis",
+          "timestamp": "2019-12-05T02:59:16.787Z",
+          "user": "Santos"
+        },
+        {
+          "message": "officiis harum laborum",
+          "timestamp": "2019-12-05T02:59:16.787Z",
+          "user": "Lian"
+        }
+      ],
+      "pastAgents": [
+        "Scott",
+        "Lian",
+        "Betty"
+      ]
+    }
+  ],
+  "users":[
+    {
+        "id" : "1234",
+        "Name": "Fernando",
+        "company": "CRP DEV",
+        
+        "email": "fernando@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "admin"
+    },
+    {
+        "id" : "1235",
+        "Name": "Bob",
+        "company": "CRP Cliente One",
+        "email": "robert@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "CRP"
+    },
+    {
+        "id" : "1236",
+        "Name": "Ann",
+        "company": "CRP DEV",
+        "email": "Ann@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "CRP"
+    },
+    {
+        "id" : "1237",
+        "Name": "Peter",
+        "company": "CRP Cliente Two",
+        "email": "peter@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "CRP"
+    },
+    {
+        "id" : "1238",
+        "Name": "Scott",
+        "company": "CRP Team",
+        "email": "scott@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "Agent"
+    },
+    {
+        "id" : "1239",
+        "Name": "Lian",
+        "company": "CRP Team",
+        "email": "Lian@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "Agent"
+    },
+    {
+        "id" : "1240",
+        "Name": "Betty",
+        "company": "CRP Team",
+        "email": "Betty@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "Agent"
+    },
+    {            
+        "id" : "1241",
+        "Name": "James",
+        "company": "CRP Cliente Three",
+        "email": "James@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "CRP"
+    },
+    {            
+        "id" : "1242",
+        "Name": "Clare",
+        "company": "CRP Cliente Four",
+        "email": "Clare@crp.com",
+        "description": "descripcion about the client",
+        "phone": "89898989",  
+        "movile":"89898989",  
+        "role" : "CRP"
+    }
+]
 }
